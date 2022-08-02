@@ -8,3 +8,9 @@ Thumbs up: Increase the volume Thumbs down: Decrease the volume Left swipe: 'Jum
 Stop: Pause the movie
 
 Each video is a sequence of 30 frames (or images).
+
+There are two types of architecture commonly used for analysing videos, both explained below.
+
+1. Convolutions + RNN
+ 
+2. 3D Convolutional Network, or Conv3D
